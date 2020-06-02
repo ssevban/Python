@@ -1,3 +1,8 @@
+# pip install pyqrcode
+
+# SEVBAN :)
+
+
 import pyqrcode
 
 veri = "https://github.com/s3vb4n"
