@@ -1,2 +1,1 @@
-# proje
-Basit Projeler
+Burada Basit Projeler Yer alıyor.
