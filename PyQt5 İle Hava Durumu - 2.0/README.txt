@@ -1,6 +1,6 @@
-BU SADECE BALIKESİR İÇİNDİR İSTERSENİZ BAŞKA ŞEHİRLERİ DE YAPABBİLİRSİNİZ YA DA BANA ULAŞIN: sevbanbozaslan30@gmail.com
-TAMAMEN ÜCRETSİZ
+SORUN ÇIKARSA BANA ULAŞIN: sevbanbozaslan30@gmail.com
+İLK BAŞ "İLK BENİ ÇALIŞTIR.py" Dosyasını Çalışırmalısınız
 
-English
-THIS IS ONLY FOR BALIKESİR, IF YOU WANT, YOU CAN MAKE OTHER CITIES OR CONTACT ME: sevbanbozaslan30@gmail.com
-TOTALLY FREE
+
+
+
